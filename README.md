@@ -10,12 +10,3 @@ Fully featured sample game in C++. Combines a wide range of game features includ
 This project is part of the **[Professional Game Development in C++ and Unreal Engine](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github)** Course where we build this project step-by-step.
 
 ![Combat Example Still](https://www.tomlooman.com/assets/images/Course_HeroBanner_TwoSplit_Narrow_1200.jpg)
-
-## Survival Game C++ (Deprecated)
-**[Browse Repository](https://github.com/tomlooman/EpicSurvivalGame)**
-
-Deprecated Project. Please refer to Action Roguelike instead to look for a fully feature C++ Example Game Project! 
-
-Third-person survival game for Unreal Engine made entirely in C++. Originally built as six part tutorial series for Epic Games, now available as open-source C++ sample project.
-
-![Refreshed look for Landscape Map](https://www.tomlooman.com/assets/images/section6_advancedanimbp031.jpg)
