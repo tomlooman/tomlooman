@@ -1,6 +1,6 @@
-## Unreal Engine Resources
+## Unreal Engine Projects & Tutorials
 
-You can find all my blogs and tutorials over at **[tomlooman.com](https://tomlooman.com)**. I have many Unreal Engine C++ and optimization(both gameplay & rendering) focused tutorials and learning resources available for free.
+You can find all my Unreal Engine articles and tutorials over at **[tomlooman.com](https://tomlooman.com)**. I have many Unreal Engine C++ and optimization(both gameplay & rendering) focused tutorials and learning resources available for free.
 
 ## [Action Roguelike C++ in Unreal Engine 5](https://github.com/tomlooman/ActionRoguelike)
 
